@@ -11,7 +11,6 @@ Download the zip file and right click to unzip. There are instructions inside th
 
 - **Cypriot Greek Keyboard (MACOS):** A keyboard layout that facilitates writing Cypriot Greek text. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/raw/master/CypriotGreek_MAC.zip).
 
-
 - **Cypriot Greek Keyboard (Windows):** A keyboard layout that facilitates writing Cypriot Greek text. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/raw/master/CypriotGreekMonotonic.zip).
 
 - **IPA Keyboard Layout (Windows):** A keyboard layout that facilitates writing texts with IPA symbols (mainly for Greek). [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_IPAGreek.zip).
